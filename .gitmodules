@@ -1,0 +1,3 @@
+[submodule "HoloColorPicker"]
+    path = Library/HoloColorPicker
+    url = git@github.com:kaoyusu/HoloColorPicker.git

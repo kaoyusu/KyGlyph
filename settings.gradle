@@ -1,0 +1,7 @@
+include ':KyGlyph', ':GreenDaoGenerator'
+exec {
+    commandLine "git", "submodule", "update", "--init", "--recursive"
+}
+include ':HoloColorPicker'
+project(':HoloColorPicker').projectDir = new File('Library/HoloColorPicker/libary')
+project(':HoloColorPicker').buildFileName = '../../HoloColorPicker.gradle'

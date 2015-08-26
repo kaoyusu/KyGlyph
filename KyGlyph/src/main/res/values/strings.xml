@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KyGlyph</string>
+    <string name="accessibility_service_description">hide KyGlyph out of Ingress</string>
+    <string name="enable_auto_hide">Enable auto hide out of Ingress</string>
+</resources>

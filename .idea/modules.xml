@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GreenDaoGenerator/GreenDaoGenerator.iml" filepath="$PROJECT_DIR$/GreenDaoGenerator/GreenDaoGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/HoloColorPicker/libary/HoloColorPicker.iml" filepath="$PROJECT_DIR$/Library/HoloColorPicker/libary/HoloColorPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KyGlyph/KyGlyph.iml" filepath="$PROJECT_DIR$/KyGlyph/KyGlyph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KyGlyphProject.iml" filepath="$PROJECT_DIR$/KyGlyphProject.iml" />
+    </modules>
+  </component>
+</project>
